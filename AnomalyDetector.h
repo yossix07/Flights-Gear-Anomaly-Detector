@@ -1,3 +1,9 @@
+/*
+ * CLI.cpp
+ *
+ * Author: Yossi Maatook
+ * Author: Osher Elhadad
+ */
 #ifndef ANOMALYDETECTOR_H_
 #define ANOMALYDETECTOR_H_
 
